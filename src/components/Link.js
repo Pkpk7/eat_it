@@ -1,5 +1,4 @@
 import React, { memo } from "react";
-import Button from "./Button";
 import { PDFDownloadLink } from "@react-pdf/renderer";
 import PdfDocument from "./pdfDocument";
 
