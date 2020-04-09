@@ -25,7 +25,6 @@ function Recipe() {
       height: "80vh",
     });
 
-    updated(1);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
